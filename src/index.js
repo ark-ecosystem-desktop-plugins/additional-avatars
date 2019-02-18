@@ -1,9 +1,13 @@
 module.exports = {
   register () {
-    this.avatars = require('./components/avatars')
+    //
+  },
+
+  getComponentPaths () {
+    return require('./component-paths')
   },
 
   getAvatars () {
-    return this.avatars
+    return ['hat-man']
   }
 }
