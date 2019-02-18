@@ -1,0 +1,12 @@
+{
+  "name": "custom-avatars",
+  "version": "0.0.1",
+  "title": "Custom Avatars",
+  "description": "A collection of custom avatars to show in the wallet.",
+  "main": "index.js",
+  "author": "Alex Barnsley <alex@ark.io>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.6"
+  }
+}
