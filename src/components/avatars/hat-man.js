@@ -2,28 +2,28 @@ module.exports = {
   template: `
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 131">
       <svg:style type="text/css">
-        .st0{fill:#8983A9;}
-        .st1{fill:#D6DCE8;}
-        .st2{opacity:7.000000e-02;enable-background:new    ;}
-        .st3{fill:#FFFFFF;}
-        .st4{opacity:0.12;enable-background:new    ;}
-        .st5{fill:#F2F5FA;}
-        .st6{fill:#FFB1B1;}
-        .st7{opacity:0.38;enable-background:new    ;}
-        .st8{fill:#D6A1B6;}
-        .st9{fill:#FFD4CB;}
-        .st10{fill:#FABCBC;}
-        .st11{fill:#DDA99E;}
-        .st12{fill:#3E001E;}
-        .st13{fill:none;stroke:#FF235D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-        .st14{opacity:0.322;enable-background:new    ;}
-        .st15{fill:#32282D;}
-        .st16{fill:#473A40;}
-        .st17{fill:#524249;}
-        .st18{clip-path:url(#SVGID_2_);}
-        .st19{fill:#3B2E34;}
+        .hat-man .st0{fill:#8983A9;}
+        .hat-man .st1{fill:#D6DCE8;}
+        .hat-man .st2{opacity:7.000000e-02;enable-background:new    ;}
+        .hat-man .st3{fill:#FFFFFF;}
+        .hat-man .st4{opacity:0.12;enable-background:new    ;}
+        .hat-man .st5{fill:#F2F5FA;}
+        .hat-man .st6{fill:#FFB1B1;}
+        .hat-man .st7{opacity:0.38;enable-background:new    ;}
+        .hat-man .st8{fill:#D6A1B6;}
+        .hat-man .st9{fill:#FFD4CB;}
+        .hat-man .st10{fill:#FABCBC;}
+        .hat-man .st11{fill:#DDA99E;}
+        .hat-man .st12{fill:#3E001E;}
+        .hat-man .st13{fill:none;stroke:#FF235D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+        .hat-man .st14{opacity:0.322;enable-background:new    ;}
+        .hat-man .st15{fill:#32282D;}
+        .hat-man .st16{fill:#473A40;}
+        .hat-man .st17{fill:#524249;}
+        .hat-man .st18{clip-path:url(#SVGID_2_);}
+        .hat-man .st19{fill:#3B2E34;}
       </svg:style>
-      <g>
+      <g class="hat-man">
         <g id="Canvas">
           <path class="st0" d="M19.7,42.3c16.7-9.6,38.1-3.9,47.9,12.8
             l11.4,19.7c9.6,16.6,4,37.8-12.6,47.5c-0.1,0-0.1,0.1-0.2,0.1c-16.7,9.6-38.1,3.9-47.9-12.8L6.8,89.9c-9.6-16.6-4-37.8,12.6-47.5
