@@ -1,6 +1,6 @@
 {
   "name": "custom-avatars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of custom avatars to show in the wallet.",
   "main": "src/index.js",
   "author": "Alex Barnsley <alex@ark.io>",
