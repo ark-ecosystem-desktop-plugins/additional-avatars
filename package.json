@@ -9,7 +9,8 @@
   "desktop-wallet": {
     "title": "Additional Avatars",
     "categories": [
-      "utility"
+      "utility",
+      "avatar"
     ],
     "permissions": [
       "COMPONENTS",
@@ -19,6 +20,7 @@
     "minVersion": "2.6"
   },
   "keywords": [
+    "avatar",
     "@arkecosystem",
     "desktop-wallet",
     "plugin"
