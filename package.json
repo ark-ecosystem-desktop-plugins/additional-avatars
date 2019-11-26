@@ -2,12 +2,12 @@
   "name": "@arkecosystem/additional-avatars",
   "version": "0.0.6",
   "description": "A collection of custom avatars to show in the wallet.",
-  "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/additional-avatars/master/logo.png",
   "main": "src/index.js",
   "author": "Alex Barnsley <alex@ark.io>",
   "license": "MIT",
   "desktop-wallet": {
     "title": "Additional Avatars",
+    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/additional-avatars/master/logo.png",
     "categories": [
       "utility",
       "avatar"
