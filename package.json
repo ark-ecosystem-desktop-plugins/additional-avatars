@@ -1,6 +1,6 @@
 {
   "name": "@arkecosystem/additional-avatars",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A collection of custom avatars to show in the wallet.",
   "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/additional-avatars/master/logo.png",
   "main": "src/index.js",
